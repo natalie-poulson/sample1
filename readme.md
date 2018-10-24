@@ -1,4 +1,3 @@
-# GitHub Practice
+# Github Practice
 
-My first and second commits. Ever.
-
+Practicing how to commit to Github. 
